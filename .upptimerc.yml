@@ -26,9 +26,7 @@ status-website:
 #       href: /
 #     - title: GitHub
 #       href: https://github.com/$OWNER/$REPO
-   metaTags:
-    - name: "robots"
-      content: "noindex"
+
 i18n:
   footer: Pickyzz 2022
 
