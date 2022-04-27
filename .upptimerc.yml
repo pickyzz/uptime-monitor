@@ -27,8 +27,6 @@ status-website:
 #     - title: GitHub
 #       href: https://github.com/$OWNER/$REPO
    metaTags:
-    - name: "color-scheme"
-      content: "dark light"
     - name: "robots"
       content: "noindex"
 i18n:
