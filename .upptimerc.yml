@@ -21,14 +21,14 @@ status-website:
   name: Pickyzz services status
   introTitle: "**Pickyzz.dev** services uptime monitor."
 #   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-#   navbar:
-#     - title: Status
-#       href: /
+  navbar:
+    - title: Main website
+      href: https://pickyzz.dev
 #     - title: GitHub
 #       href: https://github.com/$OWNER/$REPO
 
 i18n:
-  footer: Pickyzz 2022
+  footer: Pickyzz.dev
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
