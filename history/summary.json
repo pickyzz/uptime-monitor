@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 458,
-    "timeDay": 426,
-    "timeWeek": 451,
-    "timeMonth": 438,
-    "timeYear": 458,
+    "time": 457,
+    "timeDay": 354,
+    "timeWeek": 430,
+    "timeMonth": 433,
+    "timeYear": 457,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 180,
-    "timeWeek": 149,
-    "timeMonth": 162,
+    "timeDay": 154,
+    "timeWeek": 147,
+    "timeMonth": 161,
     "timeYear": 140,
     "dailyMinutesDown": {}
   },
@@ -46,14 +46,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 310,
-    "timeDay": 1056,
-    "timeWeek": 309,
-    "timeMonth": 273,
-    "timeYear": 310,
+    "time": 309,
+    "timeDay": 622,
+    "timeWeek": 295,
+    "timeMonth": 270,
+    "timeYear": 309,
     "dailyMinutesDown": {
       "2022-05-17": 35,
       "2022-05-05": 39
     }
+  },
+  {
+    "name": "comment api",
+    "url": "https://comment.pickyzz.dev",
+    "icon": "https://favicons.githubusercontent.com/comment.pickyzz.dev",
+    "slug": "comment-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3631,
+    "timeDay": 3631,
+    "timeWeek": 3631,
+    "timeMonth": 3631,
+    "timeYear": 3631,
+    "dailyMinutesDown": {}
   }
 ]
