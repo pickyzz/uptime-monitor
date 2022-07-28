@@ -4,10 +4,10 @@
     "url": "https://www.pickyzz.dev",
     "icon": "https://favicons.githubusercontent.com/www.pickyzz.dev",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 457,
@@ -15,16 +15,18 @@
     "timeWeek": 430,
     "timeMonth": 433,
     "timeYear": 457,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-28": 1
+    }
   },
   {
     "name": "Opengraph generrate service",
     "url": "https://og.pickyzz.dev",
     "icon": "https://favicons.githubusercontent.com/og.pickyzz.dev",
     "slug": "opengraph-generrate-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 147,
     "timeMonth": 161,
     "timeYear": 140,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-28": 0
+    }
   },
   {
     "name": "Ackee Analytice",
