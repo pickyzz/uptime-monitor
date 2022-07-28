@@ -9,6 +9,8 @@ sites:
     url: https://og.pickyzz.dev
   - name: Ackee Analytice
     url: https://ackee.pickyzz.dev
+  - name: comment api
+    url: https://comment.pickyzz.dev
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
