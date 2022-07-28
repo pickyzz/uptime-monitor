@@ -4,19 +4,19 @@
     "url": "https://www.pickyzz.dev",
     "icon": "https://favicons.githubusercontent.com/www.pickyzz.dev",
     "slug": "blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 457,
-    "timeDay": 354,
-    "timeWeek": 430,
-    "timeMonth": 433,
-    "timeYear": 457,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 455,
+    "timeDay": 350,
+    "timeWeek": 420,
+    "timeMonth": 430,
+    "timeYear": 455,
     "dailyMinutesDown": {
-      "2022-07-28": 1
+      "2022-07-28": 29
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://og.pickyzz.dev",
     "icon": "https://favicons.githubusercontent.com/og.pickyzz.dev",
     "slug": "opengraph-generrate-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 140,
-    "timeDay": 154,
-    "timeWeek": 147,
-    "timeMonth": 161,
-    "timeYear": 140,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 150,
+    "timeDay": 475,
+    "timeWeek": 254,
+    "timeMonth": 191,
+    "timeYear": 150,
     "dailyMinutesDown": {
-      "2022-07-28": 0
+      "2022-07-28": 29
     }
   },
   {
