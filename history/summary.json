@@ -11,9 +11,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 458,
-    "timeDay": 365,
-    "timeWeek": 477,
-    "timeMonth": 474,
+    "timeDay": 536,
+    "timeWeek": 510,
+    "timeMonth": 481,
     "timeYear": 458,
     "dailyMinutesDown": {
       "2022-07-28": 29
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
-    "time": 159,
-    "timeDay": 317,
-    "timeWeek": 251,
+    "time": 160,
+    "timeDay": 219,
+    "timeWeek": 240,
     "timeMonth": 215,
-    "timeYear": 159,
+    "timeYear": 160,
     "dailyMinutesDown": {
       "2022-07-28": 29
     }
@@ -46,15 +46,15 @@
     "slug": "ackee-analytice",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "98.42%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.93%",
-    "time": 354,
-    "timeDay": 1379,
-    "timeWeek": 740,
-    "timeMonth": 457,
-    "timeYear": 354,
+    "time": 362,
+    "timeDay": 1497,
+    "timeWeek": 860,
+    "timeMonth": 492,
+    "timeYear": 362,
     "dailyMinutesDown": {
       "2022-08-16": 23,
       "2022-08-08": 17,
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3192,
-    "timeDay": 3553,
-    "timeWeek": 2934,
-    "timeMonth": 3192,
-    "timeYear": 3192,
+    "time": 3058,
+    "timeDay": 243,
+    "timeWeek": 2462,
+    "timeMonth": 3058,
+    "timeYear": 3058,
     "dailyMinutesDown": {}
   }
 ]
