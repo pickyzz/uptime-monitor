@@ -7,8 +7,6 @@ sites:
     url: https://www.pickyzz.dev
   - name: Opengraph generrate service
     url: https://og.pickyzz.dev
-  - name: Ackee Analytice
-    url: https://ackee.pickyzz.dev
   - name: comment api
     url: https://comment.pickyzz.dev
 
