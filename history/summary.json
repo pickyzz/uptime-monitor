@@ -8,19 +8,18 @@
     "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.74%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.75%",
     "time": 566,
-    "timeDay": 228,
-    "timeWeek": 306,
-    "timeMonth": 812,
-    "timeYear": 573,
+    "timeDay": 494,
+    "timeWeek": 347,
+    "timeMonth": 373,
+    "timeYear": 563,
     "dailyMinutesDown": {
       "2023-07-25": 23,
       "2022-11-07": 17,
       "2022-10-14": 27,
-      "2022-08-27": 385,
-      "2022-08-26": 866
+      "2022-08-27": 385
     }
   },
   {
@@ -29,19 +28,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/og.pickyzz.dev.ico",
     "slug": "opengraph-generrate-service",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 177,
-    "timeDay": 92,
-    "timeWeek": 103,
+    "timeDay": 197,
+    "timeWeek": 117,
     "timeMonth": 131,
     "timeYear": 180,
     "dailyMinutesDown": {
-      "2022-08-27": 385,
-      "2022-08-26": 807
+      "2022-08-27": 385
     }
   },
   {
@@ -55,19 +53,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.60%",
-    "time": 3641,
-    "timeDay": 363,
-    "timeWeek": 360,
-    "timeMonth": 1271,
-    "timeYear": 3686,
+    "time": 3633,
+    "timeDay": 508,
+    "timeWeek": 386,
+    "timeMonth": 1267,
+    "timeYear": 3678,
     "dailyMinutesDown": {
       "2023-04-21": 22,
       "2022-10-28": 45,
       "2022-09-17": 43,
       "2022-09-16": 470,
       "2022-09-15": 342,
-      "2022-08-27": 385,
-      "2022-08-26": 807
+      "2022-08-27": 385
     }
   }
 ]
