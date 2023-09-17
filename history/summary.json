@@ -6,9 +6,9 @@
     "slug": "blog",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 605,
     "timeDay": 308,
@@ -16,7 +16,6 @@
     "timeMonth": 1100,
     "timeYear": 593,
     "dailyMinutesDown": {
-      "2023-09-16": 7,
       "2023-07-25": 23,
       "2022-11-07": 17,
       "2022-10-14": 27
@@ -29,18 +28,16 @@
     "slug": "opengraph-generrate-service",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 183,
     "timeDay": 167,
     "timeWeek": 365,
     "timeMonth": 182,
     "timeYear": 172,
-    "dailyMinutesDown": {
-      "2023-09-16": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "comment api",
@@ -49,9 +46,9 @@
     "slug": "comment-api",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.96%",
     "time": 3451,
     "timeDay": 486,
@@ -59,11 +56,9 @@
     "timeMonth": 468,
     "timeYear": 3509,
     "dailyMinutesDown": {
-      "2023-09-16": 6,
       "2023-09-05": 117,
       "2023-04-21": 22,
-      "2022-10-28": 45,
-      "2022-09-17": 43
+      "2022-10-28": 45
     }
   }
 ]
