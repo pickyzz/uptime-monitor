@@ -4,7 +4,7 @@
     "url": "https://www.pickyzz.dev",
     "icon": "https://icons.duckduckgo.com/ip3/www.pickyzz.dev.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 187,
     "timeYear": 457,
     "dailyMinutesDown": {
+      "2024-01-28": 0,
       "2023-10-30": 24,
       "2023-07-25": 23
     }
