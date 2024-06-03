@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 392,
-    "timeDay": 166,
+    "timeDay": 171,
     "timeWeek": 230,
-    "timeMonth": 220,
+    "timeMonth": 223,
     "timeYear": 362,
     "dailyMinutesDown": {
       "2023-10-30": 24,
@@ -27,18 +27,16 @@
     "slug": "opengraph-generrate-service",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 153,
-    "timeDay": 126,
+    "timeDay": 128,
     "timeWeek": 146,
     "timeMonth": 150,
     "timeYear": 150,
-    "dailyMinutesDown": {
-      "2024-06-02": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "comment api",
@@ -52,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 1874,
-    "timeDay": 401,
+    "timeDay": 444,
     "timeWeek": 520,
-    "timeMonth": 744,
+    "timeMonth": 730,
     "timeYear": 1186,
     "dailyMinutesDown": {
       "2023-11-28": 160,
