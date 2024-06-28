@@ -25,19 +25,19 @@
     "url": "https://og.pickyzz.dev",
     "icon": "https://icons.duckduckgo.com/ip3/og.pickyzz.dev.ico",
     "slug": "opengraph-generrate-service",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 153,
-    "timeDay": 129,
-    "timeWeek": 131,
-    "timeMonth": 134,
+    "timeDay": 158,
+    "timeWeek": 141,
+    "timeMonth": 137,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2024-06-28": 0
+      "2024-06-28": 9
     }
   },
   {
