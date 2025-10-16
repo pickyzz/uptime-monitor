@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pickyzz.dev.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "94.68%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "82.82%",
-    "time": 259,
-    "timeDay": 683,
-    "timeWeek": 1054,
-    "timeMonth": 897,
-    "timeYear": 276,
+    "uptime": "94.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "82.85%",
+    "time": 261,
+    "timeDay": 727,
+    "timeWeek": 1071,
+    "timeMonth": 918,
+    "timeYear": 279,
     "dailyMinutesDown": {
-      "2025-10-15": 6,
       "2024-12-17": 848,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
@@ -78,8 +77,7 @@
       "2024-10-20": 1440,
       "2024-10-19": 1440,
       "2024-10-18": 1440,
-      "2024-10-17": 1440,
-      "2024-10-16": 1440
+      "2024-10-17": 1440
     }
   },
   {
@@ -89,17 +87,16 @@
     "slug": "opengraph-generrate-service",
     "status": "up",
     "uptime": "94.71%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "82.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "82.83%",
     "time": 220,
-    "timeDay": 190,
-    "timeWeek": 173,
-    "timeMonth": 218,
-    "timeYear": 234,
+    "timeDay": 198,
+    "timeWeek": 172,
+    "timeMonth": 215,
+    "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-10-15": 6,
       "2025-09-18": 87,
       "2025-09-17": 1,
       "2025-08-30": 18,
@@ -164,8 +161,7 @@
       "2024-10-20": 1440,
       "2024-10-19": 1440,
       "2024-10-18": 1440,
-      "2024-10-17": 1440,
-      "2024-10-16": 1440
+      "2024-10-17": 1440
     }
   },
   {
@@ -175,17 +171,16 @@
     "slug": "comment-api",
     "status": "up",
     "uptime": "94.21%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "82.80%",
-    "time": 2320,
-    "timeDay": 1807,
-    "timeWeek": 1785,
-    "timeMonth": 2431,
-    "timeYear": 2793,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "82.83%",
+    "time": 2321,
+    "timeDay": 1123,
+    "timeWeek": 1482,
+    "timeMonth": 2358,
+    "timeYear": 2794,
     "dailyMinutesDown": {
-      "2025-10-15": 6,
       "2025-09-18": 87,
       "2025-09-17": 1,
       "2025-08-30": 18,
@@ -250,8 +245,7 @@
       "2024-10-20": 1440,
       "2024-10-19": 1440,
       "2024-10-18": 1440,
-      "2024-10-17": 1440,
-      "2024-10-16": 1440
+      "2024-10-17": 1440
     }
   }
 ]
