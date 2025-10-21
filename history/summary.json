@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pickyzz.dev.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "94.70%",
+    "uptime": "94.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.05%",
-    "time": 340,
-    "timeDay": 10940,
-    "timeWeek": 3078,
-    "timeMonth": 1727,
-    "timeYear": 383,
+    "uptimeYear": "84.22%",
+    "time": 342,
+    "timeDay": 11010,
+    "timeWeek": 3122,
+    "timeMonth": 1748,
+    "timeYear": 386,
     "dailyMinutesDown": {
       "2024-12-17": 848,
       "2024-12-16": 1440,
@@ -72,8 +72,7 @@
       "2024-10-25": 1440,
       "2024-10-24": 1440,
       "2024-10-23": 1440,
-      "2024-10-22": 1440,
-      "2024-10-21": 1440
+      "2024-10-22": 1440
     }
   },
   {
@@ -86,11 +85,11 @@
     "uptimeDay": "97.05%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "84.03%",
-    "time": 227,
-    "timeDay": 840,
-    "timeWeek": 378,
-    "timeMonth": 267,
+    "uptimeYear": "84.20%",
+    "time": 228,
+    "timeDay": 879,
+    "timeWeek": 384,
+    "timeMonth": 269,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2025-10-20": 43,
@@ -153,8 +152,7 @@
       "2024-10-25": 1440,
       "2024-10-24": 1440,
       "2024-10-23": 1440,
-      "2024-10-22": 1440,
-      "2024-10-21": 1440
+      "2024-10-22": 1440
     }
   },
   {
@@ -167,12 +165,12 @@
     "uptimeDay": "93.36%",
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "84.02%",
-    "time": 2408,
-    "timeDay": 7009,
-    "timeWeek": 3606,
-    "timeMonth": 2833,
-    "timeYear": 2881,
+    "uptimeYear": "84.19%",
+    "time": 2415,
+    "timeDay": 7012,
+    "timeWeek": 3809,
+    "timeMonth": 2904,
+    "timeYear": 2891,
     "dailyMinutesDown": {
       "2025-10-20": 96,
       "2025-09-18": 87,
@@ -234,8 +232,7 @@
       "2024-10-25": 1440,
       "2024-10-24": 1440,
       "2024-10-23": 1440,
-      "2024-10-22": 1440,
-      "2024-10-21": 1440
+      "2024-10-22": 1440
     }
   }
 ]
