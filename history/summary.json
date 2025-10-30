@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "86.41%",
-    "time": 349,
+    "uptimeYear": "86.69%",
+    "time": 350,
     "timeDay": 390,
-    "timeWeek": 463,
+    "timeWeek": 461,
     "timeMonth": 1637,
-    "timeYear": 394,
+    "timeYear": 395,
     "dailyMinutesDown": {
       "2025-10-25": 21,
       "2024-12-17": 848,
@@ -64,8 +64,7 @@
       "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
-      "2024-10-31": 1440,
-      "2024-10-30": 1440
+      "2024-10-31": 1440
     }
   },
   {
@@ -78,11 +77,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "86.38%",
+    "uptimeYear": "86.66%",
     "time": 227,
-    "timeDay": 146,
-    "timeWeek": 166,
-    "timeMonth": 260,
+    "timeDay": 219,
+    "timeWeek": 169,
+    "timeMonth": 244,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2025-10-25": 21,
@@ -137,8 +136,7 @@
       "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
-      "2024-10-31": 1440,
-      "2024-10-30": 1440
+      "2024-10-31": 1440
     }
   },
   {
@@ -147,16 +145,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/comment.pickyzz.dev.ico",
     "slug": "comment-api",
     "status": "up",
-    "uptime": "94.27%",
+    "uptime": "94.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "86.37%",
-    "time": 2470,
-    "timeDay": 4245,
-    "timeWeek": 2552,
-    "timeMonth": 2880,
-    "timeYear": 2938,
+    "uptimeYear": "86.65%",
+    "time": 2475,
+    "timeDay": 3322,
+    "timeWeek": 2497,
+    "timeMonth": 2937,
+    "timeYear": 2946,
     "dailyMinutesDown": {
       "2025-10-25": 21,
       "2025-10-20": 96,
@@ -210,8 +208,7 @@
       "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
-      "2024-10-31": 1440,
-      "2024-10-30": 1440
+      "2024-10-31": 1440
     }
   }
 ]
