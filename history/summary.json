@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pickyzz.dev.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "94.74%",
+    "uptime": "94.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "86.69%",
+    "uptimeYear": "86.96%",
     "time": 350,
-    "timeDay": 390,
-    "timeWeek": 461,
-    "timeMonth": 1637,
-    "timeYear": 395,
+    "timeDay": 375,
+    "timeWeek": 430,
+    "timeMonth": 1612,
+    "timeYear": 396,
     "dailyMinutesDown": {
       "2025-10-25": 21,
       "2024-12-17": 848,
@@ -63,8 +63,7 @@
       "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
-      "2024-11-01": 1440,
-      "2024-10-31": 1440
+      "2024-11-01": 1440
     }
   },
   {
@@ -77,12 +76,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "86.66%",
+    "uptimeYear": "86.93%",
     "time": 227,
-    "timeDay": 219,
-    "timeWeek": 169,
-    "timeMonth": 244,
-    "timeYear": 243,
+    "timeDay": 276,
+    "timeWeek": 176,
+    "timeMonth": 245,
+    "timeYear": 244,
     "dailyMinutesDown": {
       "2025-10-25": 21,
       "2025-10-20": 43,
@@ -135,8 +134,7 @@
       "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
-      "2024-11-01": 1440,
-      "2024-10-31": 1440
+      "2024-11-01": 1440
     }
   },
   {
@@ -149,12 +147,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "86.65%",
-    "time": 2475,
-    "timeDay": 3322,
-    "timeWeek": 2497,
-    "timeMonth": 2937,
-    "timeYear": 2946,
+    "uptimeYear": "86.92%",
+    "time": 2482,
+    "timeDay": 4067,
+    "timeWeek": 2490,
+    "timeMonth": 2959,
+    "timeYear": 2956,
     "dailyMinutesDown": {
       "2025-10-25": 21,
       "2025-10-20": 96,
@@ -207,8 +205,7 @@
       "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
-      "2024-11-01": 1440,
-      "2024-10-31": 1440
+      "2024-11-01": 1440
     }
   }
 ]
