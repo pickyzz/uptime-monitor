@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "91.62%",
-    "time": 369,
-    "timeDay": 341,
-    "timeWeek": 482,
-    "timeMonth": 1422,
-    "timeYear": 456,
+    "uptimeYear": "91.89%",
+    "time": 370,
+    "timeDay": 413,
+    "timeWeek": 477,
+    "timeMonth": 1392,
+    "timeYear": 457,
     "dailyMinutesDown": {
       "2025-10-25": 21,
       "2024-12-17": 848,
@@ -45,8 +45,7 @@
       "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
-      "2024-11-19": 1440,
-      "2024-11-18": 1440
+      "2024-11-19": 1440
     }
   },
   {
@@ -55,16 +54,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/og.pickyzz.dev.ico",
     "slug": "opengraph-generrate-service",
     "status": "up",
-    "uptime": "94.83%",
+    "uptime": "94.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "91.59%",
-    "time": 218,
-    "timeDay": 207,
-    "timeWeek": 234,
-    "timeMonth": 257,
-    "timeYear": 247,
+    "uptimeYear": "91.86%",
+    "time": 219,
+    "timeDay": 408,
+    "timeWeek": 257,
+    "timeMonth": 261,
+    "timeYear": 248,
     "dailyMinutesDown": {
       "2025-10-25": 21,
       "2025-10-20": 43,
@@ -99,8 +98,7 @@
       "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
-      "2024-11-19": 1440,
-      "2024-11-18": 1440
+      "2024-11-19": 1440
     }
   },
   {
@@ -109,16 +107,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/comment.pickyzz.dev.ico",
     "slug": "comment-api",
     "status": "up",
-    "uptime": "94.36%",
+    "uptime": "94.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "91.58%",
+    "uptimeYear": "91.85%",
     "time": 2267,
-    "timeDay": 2669,
-    "timeWeek": 3001,
-    "timeMonth": 3064,
-    "timeYear": 3043,
+    "timeDay": 435,
+    "timeWeek": 3016,
+    "timeMonth": 3001,
+    "timeYear": 3044,
     "dailyMinutesDown": {
       "2025-10-25": 21,
       "2025-10-20": 96,
@@ -153,8 +151,7 @@
       "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
-      "2024-11-19": 1440,
-      "2024-11-18": 1440
+      "2024-11-19": 1440
     }
   }
 ]
