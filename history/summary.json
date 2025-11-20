@@ -6,15 +6,15 @@
     "slug": "blog",
     "status": "up",
     "uptime": "94.82%",
-    "uptimeDay": "91.51%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.79%",
     "uptimeMonth": "99.67%",
-    "uptimeYear": "92.14%",
-    "time": 372,
-    "timeDay": 337,
-    "timeWeek": 408,
-    "timeMonth": 1225,
-    "timeYear": 455,
+    "uptimeYear": "92.42%",
+    "time": 373,
+    "timeDay": 323,
+    "timeWeek": 404,
+    "timeMonth": 1215,
+    "timeYear": 456,
     "dailyMinutesDown": {
       "2025-11-18": 122,
       "2025-10-25": 21,
@@ -44,8 +44,7 @@
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
-      "2024-11-21": 1440,
-      "2024-11-20": 1440
+      "2024-11-21": 1440
     }
   },
   {
@@ -55,14 +54,14 @@
     "slug": "opengraph-generrate-service",
     "status": "up",
     "uptime": "94.84%",
-    "uptimeDay": "92.16%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.88%",
     "uptimeMonth": "99.60%",
-    "uptimeYear": "92.12%",
+    "uptimeYear": "92.39%",
     "time": 221,
-    "timeDay": 391,
-    "timeWeek": 318,
-    "timeMonth": 281,
+    "timeDay": 200,
+    "timeWeek": 314,
+    "timeMonth": 283,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2025-11-18": 113,
@@ -97,8 +96,7 @@
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
-      "2024-11-21": 1440,
-      "2024-11-20": 1440
+      "2024-11-21": 1440
     }
   },
   {
@@ -107,16 +105,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/comment.pickyzz.dev.ico",
     "slug": "comment-api",
     "status": "up",
-    "uptime": "94.36%",
-    "uptimeDay": "93.33%",
+    "uptime": "94.37%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.52%",
-    "uptimeYear": "92.11%",
-    "time": 2286,
-    "timeDay": 2240,
-    "timeWeek": 2641,
-    "timeMonth": 2926,
-    "timeYear": 3037,
+    "uptimeYear": "92.38%",
+    "time": 2293,
+    "timeDay": 4093,
+    "timeWeek": 2648,
+    "timeMonth": 2929,
+    "timeYear": 3047,
     "dailyMinutesDown": {
       "2025-11-18": 96,
       "2025-10-25": 21,
@@ -150,8 +148,7 @@
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
-      "2024-11-21": 1440,
-      "2024-11-20": 1440
+      "2024-11-21": 1440
     }
   }
 ]
