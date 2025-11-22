@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pickyzz.dev.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "94.82%",
+    "uptime": "94.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.79%",
     "uptimeMonth": "99.67%",
-    "uptimeYear": "92.69%",
+    "uptimeYear": "92.96%",
     "time": 373,
-    "timeDay": 293,
-    "timeWeek": 378,
-    "timeMonth": 718,
+    "timeDay": 309,
+    "timeWeek": 357,
+    "timeMonth": 714,
     "timeYear": 456,
     "dailyMinutesDown": {
       "2025-11-18": 122,
@@ -42,8 +42,7 @@
       "2024-11-26": 1440,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
-      "2024-11-23": 1440,
-      "2024-11-22": 1440
+      "2024-11-23": 1440
     }
   },
   {
@@ -52,16 +51,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/og.pickyzz.dev.ico",
     "slug": "opengraph-generrate-service",
     "status": "up",
-    "uptime": "94.84%",
+    "uptime": "94.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.88%",
     "uptimeMonth": "99.69%",
-    "uptimeYear": "92.66%",
+    "uptimeYear": "92.94%",
     "time": 221,
     "timeDay": 183,
-    "timeWeek": 311,
+    "timeWeek": 308,
     "timeMonth": 229,
-    "timeYear": 250,
+    "timeYear": 251,
     "dailyMinutesDown": {
       "2025-11-18": 113,
       "2025-10-25": 21,
@@ -93,8 +92,7 @@
       "2024-11-26": 1440,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
-      "2024-11-23": 1440,
-      "2024-11-22": 1440
+      "2024-11-23": 1440
     }
   },
   {
@@ -103,16 +101,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/comment.pickyzz.dev.ico",
     "slug": "comment-api",
     "status": "up",
-    "uptime": "94.37%",
+    "uptime": "94.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "92.66%",
-    "time": 2298,
-    "timeDay": 4131,
-    "timeWeek": 2656,
-    "timeMonth": 2592,
-    "timeYear": 3057,
+    "uptimeYear": "92.93%",
+    "time": 2304,
+    "timeDay": 3972,
+    "timeWeek": 2627,
+    "timeMonth": 2590,
+    "timeYear": 3066,
     "dailyMinutesDown": {
       "2025-11-18": 96,
       "2025-10-25": 21,
@@ -144,8 +142,7 @@
       "2024-11-26": 1440,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
-      "2024-11-23": 1440,
-      "2024-11-22": 1440
+      "2024-11-23": 1440
     }
   }
 ]
