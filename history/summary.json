@@ -6,17 +6,16 @@
     "slug": "blog",
     "status": "up",
     "uptime": "94.83%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "98.72%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "93.18%",
-    "time": 373,
-    "timeDay": 252,
-    "timeWeek": 344,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "93.24%",
+    "time": 374,
+    "timeDay": 285,
+    "timeWeek": 329,
     "timeMonth": 699,
-    "timeYear": 455,
+    "timeYear": 456,
     "dailyMinutesDown": {
-      "2025-11-22": 7,
       "2025-11-18": 122,
       "2025-10-25": 21,
       "2024-12-17": 848,
@@ -42,8 +41,7 @@
       "2024-11-27": 1440,
       "2024-11-26": 1440,
       "2024-11-25": 1440,
-      "2024-11-24": 1440,
-      "2024-11-23": 1440
+      "2024-11-24": 1440
     }
   },
   {
@@ -53,17 +51,16 @@
     "slug": "opengraph-generrate-service",
     "status": "up",
     "uptime": "94.85%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "93.15%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "93.21%",
     "time": 221,
-    "timeDay": 129,
-    "timeWeek": 286,
-    "timeMonth": 225,
+    "timeDay": 115,
+    "timeWeek": 275,
+    "timeMonth": 224,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2025-11-22": 7,
       "2025-11-18": 113,
       "2025-10-25": 21,
       "2025-10-20": 43,
@@ -93,8 +90,7 @@
       "2024-11-27": 1440,
       "2024-11-26": 1440,
       "2024-11-25": 1440,
-      "2024-11-24": 1440,
-      "2024-11-23": 1440
+      "2024-11-24": 1440
     }
   },
   {
@@ -104,17 +100,16 @@
     "slug": "comment-api",
     "status": "up",
     "uptime": "94.38%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "93.14%",
-    "time": 2309,
-    "timeDay": 2667,
-    "timeWeek": 2562,
-    "timeMonth": 2571,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "93.20%",
+    "time": 2308,
+    "timeDay": 1424,
+    "timeWeek": 2388,
+    "timeMonth": 2506,
     "timeYear": 3061,
     "dailyMinutesDown": {
-      "2025-11-22": 7,
       "2025-11-18": 96,
       "2025-10-25": 21,
       "2025-10-20": 96,
@@ -144,8 +139,7 @@
       "2024-11-27": 1440,
       "2024-11-26": 1440,
       "2024-11-25": 1440,
-      "2024-11-24": 1440,
-      "2024-11-23": 1440
+      "2024-11-24": 1440
     }
   }
 ]
