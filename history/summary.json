@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pickyzz.dev.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "94.83%",
+    "uptime": "94.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.79%",
     "uptimeMonth": "99.67%",
-    "uptimeYear": "93.24%",
+    "uptimeYear": "93.51%",
     "time": 374,
-    "timeDay": 285,
-    "timeWeek": 329,
-    "timeMonth": 699,
+    "timeDay": 330,
+    "timeWeek": 327,
+    "timeMonth": 691,
     "timeYear": 456,
     "dailyMinutesDown": {
       "2025-11-18": 122,
@@ -40,8 +40,7 @@
       "2024-11-28": 1440,
       "2024-11-27": 1440,
       "2024-11-26": 1440,
-      "2024-11-25": 1440,
-      "2024-11-24": 1440
+      "2024-11-25": 1440
     }
   },
   {
@@ -50,14 +49,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/og.pickyzz.dev.ico",
     "slug": "opengraph-generrate-service",
     "status": "up",
-    "uptime": "94.85%",
+    "uptime": "94.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.88%",
     "uptimeMonth": "99.69%",
-    "uptimeYear": "93.21%",
+    "uptimeYear": "93.49%",
     "time": 221,
-    "timeDay": 115,
-    "timeWeek": 275,
+    "timeDay": 193,
+    "timeWeek": 283,
     "timeMonth": 224,
     "timeYear": 250,
     "dailyMinutesDown": {
@@ -89,8 +88,7 @@
       "2024-11-28": 1440,
       "2024-11-27": 1440,
       "2024-11-26": 1440,
-      "2024-11-25": 1440,
-      "2024-11-24": 1440
+      "2024-11-25": 1440
     }
   },
   {
@@ -99,16 +97,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/comment.pickyzz.dev.ico",
     "slug": "comment-api",
     "status": "up",
-    "uptime": "94.38%",
+    "uptime": "94.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "93.20%",
-    "time": 2308,
-    "timeDay": 1424,
-    "timeWeek": 2388,
-    "timeMonth": 2506,
-    "timeYear": 3061,
+    "uptimeYear": "93.48%",
+    "time": 2314,
+    "timeDay": 4052,
+    "timeWeek": 2443,
+    "timeMonth": 2505,
+    "timeYear": 3071,
     "dailyMinutesDown": {
       "2025-11-18": 96,
       "2025-10-25": 21,
@@ -138,8 +136,7 @@
       "2024-11-28": 1440,
       "2024-11-27": 1440,
       "2024-11-26": 1440,
-      "2024-11-25": 1440,
-      "2024-11-24": 1440
+      "2024-11-25": 1440
     }
   }
 ]
