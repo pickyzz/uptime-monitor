@@ -6,17 +6,16 @@
     "slug": "blog",
     "status": "up",
     "uptime": "94.84%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "94.00%",
-    "time": 375,
-    "timeDay": 458,
-    "timeWeek": 357,
-    "timeMonth": 680,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "94.06%",
+    "time": 374,
+    "timeDay": 329,
+    "timeWeek": 344,
+    "timeMonth": 689,
     "timeYear": 457,
     "dailyMinutesDown": {
-      "2025-11-25": 10,
       "2025-11-18": 122,
       "2025-10-25": 21,
       "2024-12-17": 848,
@@ -39,8 +38,7 @@
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
-      "2024-11-27": 1440,
-      "2024-11-26": 1440
+      "2024-11-27": 1440
     }
   },
   {
@@ -50,17 +48,16 @@
     "slug": "opengraph-generrate-service",
     "status": "up",
     "uptime": "94.86%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "93.98%",
-    "time": 221,
-    "timeDay": 193,
-    "timeWeek": 169,
-    "timeMonth": 224,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "94.03%",
+    "time": 222,
+    "timeDay": 174,
+    "timeWeek": 168,
+    "timeMonth": 227,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2025-11-25": 10,
       "2025-11-18": 113,
       "2025-10-25": 21,
       "2025-10-20": 43,
@@ -87,8 +84,7 @@
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
-      "2024-11-27": 1440,
-      "2024-11-26": 1440
+      "2024-11-27": 1440
     }
   },
   {
@@ -98,17 +94,16 @@
     "slug": "comment-api",
     "status": "up",
     "uptime": "94.40%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "93.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "94.03%",
     "time": 2325,
-    "timeDay": 2688,
-    "timeWeek": 2951,
-    "timeMonth": 2564,
+    "timeDay": 1499,
+    "timeWeek": 2625,
+    "timeMonth": 2522,
     "timeYear": 3075,
     "dailyMinutesDown": {
-      "2025-11-25": 10,
       "2025-11-18": 96,
       "2025-10-25": 21,
       "2025-10-20": 96,
@@ -135,8 +130,7 @@
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
-      "2024-11-27": 1440,
-      "2024-11-26": 1440
+      "2024-11-27": 1440
     }
   }
 ]
