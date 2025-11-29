@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pickyzz.dev.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "94.85%",
+    "uptime": "94.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "94.61%",
-    "time": 374,
-    "timeDay": 385,
-    "timeWeek": 361,
+    "uptimeYear": "94.88%",
+    "time": 375,
+    "timeDay": 371,
+    "timeWeek": 366,
     "timeMonth": 705,
     "timeYear": 459,
     "dailyMinutesDown": {
@@ -35,8 +35,7 @@
       "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
-      "2024-11-30": 1440,
-      "2024-11-29": 1440
+      "2024-11-30": 1440
     }
   },
   {
@@ -49,11 +48,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "94.58%",
+    "uptimeYear": "94.86%",
     "time": 222,
-    "timeDay": 152,
-    "timeWeek": 160,
-    "timeMonth": 230,
+    "timeDay": 108,
+    "timeWeek": 154,
+    "timeMonth": 229,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2025-11-18": 113,
@@ -79,8 +78,7 @@
       "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
-      "2024-11-30": 1440,
-      "2024-11-29": 1440
+      "2024-11-30": 1440
     }
   },
   {
@@ -93,12 +91,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "94.57%",
-    "time": 2337,
-    "timeDay": 3897,
-    "timeWeek": 2594,
-    "timeMonth": 2605,
-    "timeYear": 3093,
+    "uptimeYear": "94.85%",
+    "time": 2342,
+    "timeDay": 3778,
+    "timeWeek": 2577,
+    "timeMonth": 2596,
+    "timeYear": 3102,
     "dailyMinutesDown": {
       "2025-11-18": 96,
       "2025-10-25": 21,
@@ -123,8 +121,7 @@
       "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
-      "2024-11-30": 1440,
-      "2024-11-29": 1440
+      "2024-11-30": 1440
     }
   }
 ]
