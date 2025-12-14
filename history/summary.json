@@ -9,19 +9,18 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "98.72%",
-    "time": 379,
-    "timeDay": 319,
-    "timeWeek": 296,
-    "timeMonth": 368,
-    "timeYear": 465,
+    "uptimeYear": "98.99%",
+    "time": 380,
+    "timeDay": 519,
+    "timeWeek": 302,
+    "timeMonth": 363,
+    "timeYear": 466,
     "dailyMinutesDown": {
       "2025-11-18": 122,
       "2025-10-25": 21,
       "2024-12-17": 848,
       "2024-12-16": 1440,
-      "2024-12-15": 1440,
-      "2024-12-14": 1440
+      "2024-12-15": 1440
     }
   },
   {
@@ -34,10 +33,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "98.69%",
-    "time": 223,
-    "timeDay": 168,
-    "timeWeek": 169,
+    "uptimeYear": "98.97%",
+    "time": 224,
+    "timeDay": 230,
+    "timeWeek": 171,
     "timeMonth": 221,
     "timeYear": 251,
     "dailyMinutesDown": {
@@ -49,8 +48,7 @@
       "2025-08-30": 18,
       "2024-12-17": 848,
       "2024-12-16": 1440,
-      "2024-12-15": 1440,
-      "2024-12-14": 1440
+      "2024-12-15": 1440
     }
   },
   {
@@ -59,16 +57,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/comment.pickyzz.dev.ico",
     "slug": "comment-api",
     "status": "up",
-    "uptime": "94.47%",
+    "uptime": "94.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "98.68%",
-    "time": 2435,
-    "timeDay": 4007,
-    "timeWeek": 3406,
-    "timeMonth": 2937,
-    "timeYear": 3207,
+    "uptimeYear": "98.96%",
+    "time": 2440,
+    "timeDay": 3680,
+    "timeWeek": 3386,
+    "timeMonth": 2931,
+    "timeYear": 3216,
     "dailyMinutesDown": {
       "2025-11-18": 96,
       "2025-10-25": 21,
@@ -78,8 +76,7 @@
       "2025-08-30": 18,
       "2024-12-17": 848,
       "2024-12-16": 1440,
-      "2024-12-15": 1440,
-      "2024-12-14": 1440
+      "2024-12-15": 1440
     }
   }
 ]
